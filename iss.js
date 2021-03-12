@@ -64,7 +64,5 @@ const nextISSTimesForMyLocation = function(callback) {
   });
 };
 
-//http://api.open-notify.org/iss-pass.json?lat=-793&lon=43
-// http://api.open-notify.org/iss-pass.json?lat=LAT&lon=LON
 
 module.exports = { nextISSTimesForMyLocation };
